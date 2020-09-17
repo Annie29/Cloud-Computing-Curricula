@@ -1,4 +1,4 @@
-<!--- So, What's the Cloud Anyway? (Slides, Lecture Notes, Lab) --_>
+<!--- So, What's the Cloud Anyway? (Slides, Lecture Notes, Lab) --->
 # Title:    Module1: So, What's the Cloud Anyway?
 
 ## Type of resource:
